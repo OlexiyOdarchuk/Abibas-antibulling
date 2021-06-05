@@ -10962,7 +10962,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-   background-color: rgba(0, rgba(0, 0, 0, 0), blue, alpha);
+   background-color: rgba(0, rgb(0, 0, 0), blue, alpha);
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
